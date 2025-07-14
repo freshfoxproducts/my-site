@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fresh Fox | Luxury Shoe Care</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <img src="images/logo.png" alt="Fresh Fox Logo" class="logo" />
+    <h1>Fresh Fox</h1>
+    <p class="tagline">Luxury Shoe Care. Elevated.</p>
+  </header>
+
+  <section class="hero">
+    <h2>High-End Interchangeable Brush System</h2>
+    <p>Designed for the discerning gentleman. Crafted with premium materials and precision detailing.</p>
+    <a href="#contact" class="cta">Get in Touch</a>
+  </section>
+
+  <section class="features">
+    <h3>Why Fresh Fox?</h3>
+    <ul>
+      <li>🧼 Premium handcrafted brushes</li>
+      <li>🧰 Interchangeable system for all shoe types</li>
+      <li>🦊 Iconic branding with a dapper fox twist</li>
+      <li>🎁 Ideal gift for men with refined style</li>
+    </ul>
+  </section>
+
+  <section id="contact" class="contact">
+    <h3>Contact Us</h3>
+    <p>Email: hello@freshfox.ca</p>
+    <p>Instagram: <a href="https://instagram.com/freshfox.ca" target="_blank">@freshfox.ca</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Fresh Fox. All rights reserved.</p>
+  </footer>
+</body>
+</html>
